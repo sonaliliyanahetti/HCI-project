@@ -1,4 +1,4 @@
-We recreated the Moratuwa E-learning platform using Figma with a focus on making it more user-friendly. Figma was used to design wireframes and mockups for dashboards, ensuring visual clarity, proper layout, and realistic interaction. To enhance the project, we incorporated several advanced features of Figma:
+We recreated the Moratuwa E-learning platform using Figma with a focus on making it more user-friendly.We conducted user interviews with real-world users to better understand the challenges they face when using the current website. These insights helped us identify usability issues and informed our redesign decisions to create a more user-friendly platform.. Figma was used to design wireframes and mockups for dashboards, ensuring visual clarity, proper layout, and realistic interaction. To enhance the project, we incorporated several advanced features of Figma: 
 
 Advanced Features in Our Design
 
